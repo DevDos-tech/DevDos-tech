@@ -78,31 +78,20 @@
 />
 <img 
     align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
+    alt="swagger" 
+    title="swagger"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
 />
 <br/>
 <br/>
-
 ### 📊 Estatísticas
-
-<p>
+<p align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DevDos-tech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DevDos-tech&theme=tokyonight&hide_border=true" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDos-tech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
+
+<br clear="left"/>
