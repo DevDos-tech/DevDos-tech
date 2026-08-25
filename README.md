@@ -2,6 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
+Profissional em transição para a área de Quality Assurance, com background técnico em desenvolvimento web (Node.js, React e MongoDB) e vivência prévia em On-Site Support e Customer Service em empresas de tecnologia. Essa combinação me dá visão prática de todo o ciclo de desenvolvimento — desde a modelagem de dados e criação de CRUDs até a integração entre back-end e front-end — o que facilita a identificação de falhas, a elaboração de casos de teste mais precisos e a comunicação técnica com times de desenvolvimento.
+
+
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
